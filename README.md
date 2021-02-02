@@ -1,7 +1,7 @@
 # ZombieConga
 
 
-A sample SpriteKit project.
+A sample SpriteKit project with collision and movement.
 
 ### 🥞Tech stack
 
